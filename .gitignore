@@ -1,0 +1,12 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+
+*.docx
+*.xlsb
+*.pdf
+*.wbk
+configuration.json
+info.json
+src/tests/*
