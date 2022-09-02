@@ -1,13 +1,7 @@
 /node_modules/
-/public/build/
-/public/build/**
 
-.DS_Store
+build
 
-*.docx
+*.pptx
 *.xlsb
-*.pdf
-*.wbk
-configuration.json
-info.json
-src/tests/*
+*.xlsx
